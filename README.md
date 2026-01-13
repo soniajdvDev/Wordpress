@@ -1,4 +1,4 @@
-# Wordpress
+# WordPress
 Trabajo grupal de 2º de DAW <br>
 ## 🥗 Plataforma Digital: Clínica de Nutrición & Bienestar
 
